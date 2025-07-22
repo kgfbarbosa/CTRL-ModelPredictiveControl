@@ -127,7 +127,7 @@ distFinalValue = -0.5;
 Tnoise = 0.8*Tsim;
 noiseInitialValue = 0;
 noiseFinalValue = -0.5;
-sim = sim('MPCSimulink');
+sim = sim('../MPCSimulink');
 
 % Plot
 figure
