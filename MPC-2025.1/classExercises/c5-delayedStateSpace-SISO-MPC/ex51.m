@@ -8,7 +8,7 @@
 % =========================================================================
 %
 % Description:
-% This script simulates Example from page 139 of the book:
+% This script simulates Example from page 92 of the book:
 %
 %   "Model Predictive Control" by Eduardo F. Camacho and Carlos Bordons
 %
