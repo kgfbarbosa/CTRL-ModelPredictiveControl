@@ -28,7 +28,7 @@ This repository includes:
 ## Technologies and Tools
 
 - **Language:** MATLAB;
-- **Tools:** MATLAB 2023b + Simulink.
+- **Tools:** MATLAB + Simulink.
 
 ---
 
@@ -58,7 +58,7 @@ However, if you use any part of this repository in your own projects or publicat
 **BibTeX format (for scientific papers):**
 
 ```bibtex
-@misc{kgfbarbosa_fpga_2025,
+@misc{kgfbarbosa_mpc_2025,
   author       = {K.G.F.Barbosa},
   title        = {kgfbarbosa's Model Predictive Control Learning Archive},
   year         = {2025},
